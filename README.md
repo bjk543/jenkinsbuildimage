@@ -1,0 +1,1 @@
+docker run -d -t -i -p 3000:3000 bjk543/nodeserver:1.0
